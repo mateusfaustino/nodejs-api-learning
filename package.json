@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-api-learning",
+  "version": "1.0.0",
+  "description": "A sandbox for my learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusfaustino/nodejs-api-learning.git"
+  },
+  "keywords": [
+    "node",
+    "matt",
+    "api"
+  ],
+  "author": "Mateus Faustino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateusfaustino/nodejs-api-learning/issues"
+  },
+  "homepage": "https://github.com/mateusfaustino/nodejs-api-learning#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
